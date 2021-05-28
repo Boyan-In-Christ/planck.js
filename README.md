@@ -125,7 +125,7 @@ planck.testbed(function() {
  - [Fall / Fill](https://twitter.com/jezzamonn/status/1246212104593403905) by Jez Swanson
  - [1000 Unique Postcards](https://twitter.com/andreasgysin/status/956131218386509824) by Andreas Gysin
  - [Flag in the Wind](https://codepen.io/unframework/pen/OrOMBg) by Nick Matantsev
- - [Dynamic Convex Hull](https://codepen.io/bozheng-stokes/pen/abormNX) by Bo Zheng
+ - [Dynamic Convex Hull](https://codepen.io/bozheng-stokes/pen/abormNX) by Boyan Zheng
  - [Chaotic Water Wheel](https://john-hearn.info/articles/simulate-chaotic-water-wheel-with-planck) by John Hearn
 
 #### Science and AI
